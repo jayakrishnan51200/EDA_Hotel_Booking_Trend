@@ -1,6 +1,6 @@
 # 🏨 Hotel Booking Trend Analysis — Exploratory Data Analysis (EDA)
 
-![Hotel Booking](hotel_booking.jpg)
+![Hotel Booking](EDA_hotel_booking.jpg)
 
 ## 📌 Project Overview
 
@@ -145,11 +145,9 @@ hotel-booking-eda/
 
 ## 👤 Author
 
-**Jayakrishnan**
+**JAYAKRISHNAN K**
 
 ---
 
-## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
 
